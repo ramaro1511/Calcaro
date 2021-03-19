@@ -1,0 +1,17 @@
+C:\Users\zengo\source\repos\Calcaro\Calcaro\bin\Debug\Calcaro.exe.config
+C:\Users\zengo\source\repos\Calcaro\Calcaro\bin\Debug\Calcaro.exe
+C:\Users\zengo\source\repos\Calcaro\Calcaro\bin\Debug\Calcaro.pdb
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\Calcaro.csprojAssemblyReference.cache
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\MainWindow.g.cs
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\App.g.cs
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\Calcaro_MarkupCompile.cache
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\Calcaro_MarkupCompile.lref
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\MainWindow.baml
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\Calcaro.g.resources
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\Calcaro.Properties.Resources.resources
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\Calcaro.csproj.GenerateResource.cache
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\Calcaro.csproj.CoreCompileInputs.cache
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\Calcaro.exe
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\Calcaro.pdb
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\View.g.cs
+C:\Users\zengo\source\repos\Calcaro\Calcaro\obj\Debug\View.baml
